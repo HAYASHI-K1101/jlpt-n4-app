@@ -204,7 +204,7 @@ function PageMemberDetail({ member, onBack, onReset }) {
 }
 
 function PageMemberDash({ user }) {
-  const u = user;
+
   return (
     <div>
       <div style={{ fontSize:14, fontWeight:600, marginBottom:12 }}>学習ダッシュボード</div>
